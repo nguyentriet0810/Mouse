@@ -1,0 +1,6 @@
+C:/Program Files/Google/Chrome/Application/chrome.exe (Mở Chrome)
+C:/Program Files/Microsoft Office/root/Office16/EXCEL.EXE (Mở Excel)
+C:/Program Files/Microsoft Office/root/Office16/WINWORD.EXE (Mở Word)
+C:/Windows/System32/osk.exe (Mở Bàn Phím)
+C:/Program Files/Microsoft Office/root/Office16/POWERPNT.EXE (Mở Powerpoint)
+D:/Softwares/EVKey/EVKey64.exe (Mở Tiếng Việt)
